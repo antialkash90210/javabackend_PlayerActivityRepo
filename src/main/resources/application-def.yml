@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: "jdbc:postgresql://ec2-52-208-185-143.eu-west-1.compute.amazonaws.com:5432/d6qr7iq8as5lli"
+    username: wnwvhgjmpjofjf
+    password: 54b3fd00490175341b2c305befc2dfc36fec1d506f18cad42e8ba40780210bf1
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
